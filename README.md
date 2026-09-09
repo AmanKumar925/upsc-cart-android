@@ -46,7 +46,7 @@ The app is built with a focus on a fast, intuitive posting flow, real-time listi
 
 | Post an Item | Rent Rooms | Marketplace | Sign In |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshots/1.jpg" width="200"/> | <img src="screenshots/2.jpg" width="200"/> | <img src="screenshots/4.jpg" width="200"/> | <img src="screenshots/9.jpg" width="200"/> |
+| <img src="screenshots/1.jpeg" width="200"/> | <img src="screenshots/2.jpeg" width="200"/> | <img src="screenshots/4.jpeg" width="200"/> | <img src="screenshots/9.jpeg" width="200"/> |
 
 </div>
 
